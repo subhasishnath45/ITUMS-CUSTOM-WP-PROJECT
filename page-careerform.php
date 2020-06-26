@@ -22,10 +22,10 @@ if(isset($_POST['submit'])){
     // require this file only on form submit...
     require( get_template_directory()  . '/phpmailer/PHPMailerAutoload.php');
     
-    define ('GUSER','itums.website@gmail.com');
-    define ('GPWD','Itums@12345');
+    define ('GUSER','yourgmailID');
+    define ('GPWD','pass');
 
- 	  $recever1 = 'itums.website@gmail.com';
+ 	  $recever1 = 'yourgmailID';
 
     if(move_uploaded_file($_FILES['career_resume']['tmp_name'],$resumefile)){
         // sendmail($recever1,$senderemail,$sendername,$resumefile);
