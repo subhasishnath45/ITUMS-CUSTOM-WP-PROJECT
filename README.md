@@ -11,7 +11,7 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 
 * A Fully custom Wordpress Website
 * All the necessery plugins are used like: ACF, YOAST SEO, Autoptimize, etc.
-* Fully Custom contact forms with file uploading capability: https://itums.co.in/career-form/
+* Fully Custom contact forms with file uploading capability using PHPMAILER: https://itums.co.in/career-form/
 * Working Booking Calender: https://itums.co.in/book-appointment/
 * Extensive use of Custom Post Types and Custom Taxonomies.
 * Uses Bootstrap 4, Slick Carousel, OWL CAROUSEL v2.x, and much more Custom JQuery Code.
